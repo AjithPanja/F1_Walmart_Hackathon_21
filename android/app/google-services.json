@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703147858805",
+    "project_id": "walmart-hackathon",
+    "storage_bucket": "walmart-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703147858805:android:8315bd5dd3f1e8740fd13c",
+        "android_client_info": {
+          "package_name": "com.f1.walmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703147858805-089ktolkkqhop6ludllc0vq4f2n4eo78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsP0lJFt-0P4Mc1JBUYQsWMz7g3u_i5Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703147858805-089ktolkkqhop6ludllc0vq4f2n4eo78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
